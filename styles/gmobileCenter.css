@@ -56,14 +56,17 @@
 /* hero-items */
 
 .hero-items{
-    height: 80vh;
+    height: 85vh;
     align-items: center;
     justify-content: center;
     text-align: center;
     display: flex;
     flex-direction: column; 
-    background-image:
+    /* background-image:
     linear-gradient(to right bottom, rgba(36, 35, 35, 0.753), rgb(88, 86, 94)) , 
+    url(../images/shopview.jpg) ; */
+    background-image:
+    linear-gradient(62deg, #01080cf4 0%, #dfd0ebe0 100%) , 
     url(../images/shopview.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -230,7 +233,7 @@
 
 .about{
     background-image:
-    linear-gradient(to right bottom, rgba(36, 35, 35, 0.753), rgb(88, 86, 94)) , 
+    linear-gradient(62deg, #01080cf4 0%, #dfd0ebe0 100%) ,
     url(../images/GMC_insideview.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
