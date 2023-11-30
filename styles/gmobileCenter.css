@@ -63,7 +63,7 @@
     display: flex;
     flex-direction: column; 
     background-image:
-    linear-gradient(to right bottom, rgba(178, 31, 31, 0.753), rgb(75, 12, 7)) , 
+    linear-gradient(to right bottom, rgba(123, 9, 9, 0.753), rgb(58, 2, 2)) , 
     url(../images/shopview.jpg) ;
     /* background-image:
     linear-gradient(62deg, #01080cf4 0%, #dfd0ebe0 100%) , 
@@ -233,7 +233,7 @@
 
 .about{
     background-image:
-    linear-gradient(to right bottom, rgba(178, 31, 31, 0.753), rgb(75, 12, 7)) , 
+    linear-gradient(to right bottom, rgba(123, 9, 9, 0.753), rgb(58, 2, 2)) , 
     url(../images/shopview.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
